@@ -40,12 +40,6 @@ const sendError = (res, message, errorCode = 500) => {
   res.status(errorCode).json({ success: false, errorCode, errorMessage: message });
 };
 
-/**
- * @swagger
- * /:
- * 
- *   get:
- */
 server.get('/', (req, res) => {
   res.status(200).json({
     success: true,
@@ -110,25 +104,6 @@ server.get('/trains', async (req, res) => {
   }
 });
 
-/**
- * @swagger
- * /trains/{code}:
- *   get:
- *     parameters:
- *       - name: code
- *         in: path
- *         required: true
- *         type: string
- *         description: Train code, e.g. E001, P141
- *     responses:
- *       200:
- *         description: OK
- *       500:
- *         description: Server error
- *       404:
- *         description: Train not found
-*/
-
 server.get('/trains/:code', async (req, res) => {
   try {
     const { code } = req.params;
@@ -158,43 +133,5 @@ server.get('/trains/:code/movements', async (req, res) => {
 });
 
 server.use((req, res) => sendError(res, 'Route not found.', 404));
-
 server.listen(PORT, () => console.log(`[SERVER]: Listening on port ${PORT}`));
-
-/**
- * @swagger
- * components:
- *   responses:
- *     NotFound:
- *   schemas:
- *     ArrayOfObjTrainPositions.objTrainPositions:
- *       type: object
- *       description: Data format provided in SOAP format
- *       required:
- *         - title
- *         - author
- *         - finished
- *       properties:
- *         id:
- *           type: string
- *           description: The auto-generated id of the book
- *         title:
- *           type: string
- *           description: The title of your book
- *         author:
- *           type: string
- *           description: The book author
- *         finished:
- *           type: boolean
- *           description: Whether you have finished reading the book
- *         createdAt:
- *           type: string
- *           format: date
- *           description: The date the book was added
- *       example:
- *         id: d5fE_asz
- *         title: The New Turing Omnibus
- *         author: Alexander K. Dewdney
- *         finished: false
- *         createdAt: 2020-03-10T04:05:06.157Z
- */
+module.exports = server;
