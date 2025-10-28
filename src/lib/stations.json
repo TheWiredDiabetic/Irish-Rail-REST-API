@@ -1,0 +1,1199 @@
+[
+  {
+    "name": "Adamstown",
+    "code": "ADAMS",
+    "alias": "",
+    "latitude": 53.3353,
+    "longitude": -7
+  },
+  {
+    "name": "Adamstown",
+    "code": "ADAMF",
+    "alias": "",
+    "latitude": 53.3353,
+    "longitude": -6.45233
+  },
+  {
+    "name": "Adamstown",
+    "code": "ADMTN",
+    "alias": "",
+    "latitude": 53.3353,
+    "longitude": -6.45233
+  },
+  {
+    "name": "Ardrahan",
+    "code": "ARHAN",
+    "alias": "",
+    "latitude": 53.1572,
+    "longitude": -8.81483
+  },
+  {
+    "name": "Arklow",
+    "code": "ARKLW",
+    "alias": "",
+    "latitude": 52.7932,
+    "longitude": -6.15994
+  },
+  {
+    "name": "Ashtown",
+    "code": "ASHTN",
+    "alias": "",
+    "latitude": 53.3755,
+    "longitude": -6.33135
+  },
+  {
+    "name": "Athenry",
+    "code": "ATHRY",
+    "alias": "",
+    "latitude": 53.3015,
+    "longitude": -8.74855
+  },
+  {
+    "name": "Athlone",
+    "code": "ATLNE",
+    "alias": "",
+    "latitude": 53.4273,
+    "longitude": -7.93683
+  },
+  {
+    "name": "Athy",
+    "code": "ATHY",
+    "alias": "",
+    "latitude": 52.992,
+    "longitude": -6.9762
+  },
+  {
+    "name": "Attymon",
+    "code": "ATMON",
+    "alias": "",
+    "latitude": 53.3212,
+    "longitude": -8.60608
+  },
+  {
+    "name": "Balbriggan",
+    "code": "BBRGN",
+    "alias": "",
+    "latitude": 53.6118,
+    "longitude": -6.18226
+  },
+  {
+    "name": "Ballina",
+    "code": "BALNA",
+    "alias": "",
+    "latitude": 54.1085,
+    "longitude": -9.16146
+  },
+  {
+    "name": "Ballinasloe",
+    "code": "BSLOE",
+    "alias": "",
+    "latitude": 53.3363,
+    "longitude": -8.24081
+  },
+  {
+    "name": "Ballybrophy",
+    "code": "BBRHY",
+    "alias": "",
+    "latitude": 52.8999,
+    "longitude": -7.60259
+  },
+  {
+    "name": "Ballycullane",
+    "code": "BCLAN",
+    "alias": "",
+    "latitude": 52.2834,
+    "longitude": -6.83958
+  },
+  {
+    "name": "Ballyhaunis",
+    "code": "BYHNS",
+    "alias": "",
+    "latitude": 53.7616,
+    "longitude": -8.7584
+  },
+  {
+    "name": "Ballymote",
+    "code": "BMOTE",
+    "alias": "",
+    "latitude": 54.0887,
+    "longitude": -8.52088
+  },
+  {
+    "name": "Banteer",
+    "code": "BTEER",
+    "alias": "",
+    "latitude": 52.1287,
+    "longitude": -8.89793
+  },
+  {
+    "name": "Bayside",
+    "code": "BYSDE",
+    "alias": "",
+    "latitude": 53.3917,
+    "longitude": -6.13678
+  },
+  {
+    "name": "Belfast",
+    "code": "BFSTC",
+    "alias": "",
+    "latitude": 54.6123,
+    "longitude": -5.91744
+  },
+  {
+    "name": "Birdhill",
+    "code": "BHILL",
+    "alias": "",
+    "latitude": 52.7656,
+    "longitude": -8.44247
+  },
+  {
+    "name": "Blackrock",
+    "code": "BROCK",
+    "alias": "",
+    "latitude": 53.3027,
+    "longitude": -6.17833
+  },
+  {
+    "name": "Booterstown",
+    "code": "BTSTN",
+    "alias": "",
+    "latitude": 53.3099,
+    "longitude": -6.19498
+  },
+  {
+    "name": "Boyle",
+    "code": "BOYLE",
+    "alias": "",
+    "latitude": 53.9676,
+    "longitude": -8.30438
+  },
+  {
+    "name": "Bray",
+    "code": "BRAY",
+    "alias": "",
+    "latitude": 53.2043,
+    "longitude": -6.10046
+  },
+  {
+    "name": "Bridgetown",
+    "code": "BRGTN",
+    "alias": "",
+    "latitude": 52.2312,
+    "longitude": -6.54918
+  },
+  {
+    "name": "Broombridge",
+    "code": "BBRDG",
+    "alias": "",
+    "latitude": 53.3725,
+    "longitude": -6.29869
+  },
+  {
+    "name": "Cahir",
+    "code": "CAHIR",
+    "alias": "",
+    "latitude": 52.3777,
+    "longitude": -7.92181
+  },
+  {
+    "name": "Campile",
+    "code": "CPILE",
+    "alias": "",
+    "latitude": 52.2855,
+    "longitude": -6.93896
+  },
+  {
+    "name": "Carlow",
+    "code": "CRLOW",
+    "alias": "",
+    "latitude": 52.8407,
+    "longitude": -6.92217
+  },
+  {
+    "name": "Carrick on Shannon",
+    "code": "CKOSH",
+    "alias": "",
+    "latitude": 53.9383,
+    "longitude": -8.10657
+  },
+  {
+    "name": "Carrick on Suir",
+    "code": "CKOSR",
+    "alias": "",
+    "latitude": 52.3487,
+    "longitude": -7.40354
+  },
+  {
+    "name": "Carrigaloe",
+    "code": "CGLOE",
+    "alias": "",
+    "latitude": 51.8688,
+    "longitude": -8.32417
+  },
+  {
+    "name": "Carrigtwohill",
+    "code": "CGTWL",
+    "alias": "",
+    "latitude": 51.9163,
+    "longitude": -8.26323
+  },
+  {
+    "name": "Castlebar",
+    "code": "CLBAR",
+    "alias": "",
+    "latitude": 53.8471,
+    "longitude": -9.2873
+  },
+  {
+    "name": "Castleconnell",
+    "code": "CCONL",
+    "alias": "",
+    "latitude": 52.7128,
+    "longitude": -8.49794
+  },
+  {
+    "name": "Castleknock",
+    "code": "CNOCK",
+    "alias": "",
+    "latitude": 53.3816,
+    "longitude": -6.37149
+  },
+  {
+    "name": "Castlerea",
+    "code": "CSREA",
+    "alias": "",
+    "latitude": 53.7612,
+    "longitude": -8.48448
+  },
+  {
+    "name": "CENTRAL JUNCTION",
+    "code": "CENTJ",
+    "alias": "Dublin Belfast",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "name": "Charleville",
+    "code": "CVILL",
+    "alias": "",
+    "latitude": 52.3468,
+    "longitude": -8.65362
+  },
+  {
+    "name": "CITY JUNCTION",
+    "code": "CITYJ",
+    "alias": "Dublin Belfast",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "name": "Clara",
+    "code": "CLARA",
+    "alias": "",
+    "latitude": 53.3395,
+    "longitude": -7.61596
+  },
+  {
+    "name": "Claremorris",
+    "code": "CLMRS",
+    "alias": "",
+    "latitude": 53.7204,
+    "longitude": -9.00222
+  },
+  {
+    "name": "Clondalkin",
+    "code": "CLDKN",
+    "alias": "Fonthill ( Clondalkin )",
+    "latitude": 53.3334,
+    "longitude": -6.40628
+  },
+  {
+    "name": "Clondalkin",
+    "code": "CLONS",
+    "alias": "Fonthill ( Clondalkin )",
+    "latitude": 53.3334,
+    "longitude": -6.40628
+  },
+  {
+    "name": "Clondalkin",
+    "code": "CLONF",
+    "alias": "Fonthill ( Clondalkin )",
+    "latitude": 53.3334,
+    "longitude": -6.40628
+  },
+  {
+    "name": "Clongriffin",
+    "code": "GRGRD",
+    "alias": "",
+    "latitude": 53.4032,
+    "longitude": -6.14839
+  },
+  {
+    "name": "Clonmel",
+    "code": "CLMEL",
+    "alias": "",
+    "latitude": 52.3611,
+    "longitude": -7.69936
+  },
+  {
+    "name": "Clonsilla",
+    "code": "CLSLA",
+    "alias": "",
+    "latitude": 53.3831,
+    "longitude": -6.4242
+  },
+  {
+    "name": "Clontarf Road",
+    "code": "CTARF",
+    "alias": "",
+    "latitude": 53.3629,
+    "longitude": -6.22753
+  },
+  {
+    "name": "Cloughjordan",
+    "code": "CJRDN",
+    "alias": "",
+    "latitude": 52.9363,
+    "longitude": -8.0246
+  },
+  {
+    "name": "Cobh",
+    "code": "COBH",
+    "alias": "",
+    "latitude": 51.8491,
+    "longitude": -8.29956
+  },
+  {
+    "name": "Collooney",
+    "code": "COLNY",
+    "alias": "",
+    "latitude": 54.1871,
+    "longitude": -8.49453
+  },
+  {
+    "name": "Coolmine",
+    "code": "CMINE",
+    "alias": "",
+    "latitude": 53.3776,
+    "longitude": -6.39072
+  },
+  {
+    "name": "Cork",
+    "code": "CORK",
+    "alias": "",
+    "latitude": 51.9018,
+    "longitude": -8.4582
+  },
+  {
+    "name": "Craughwell",
+    "code": "CRGHW",
+    "alias": "",
+    "latitude": 53.2252,
+    "longitude": -8.7359
+  },
+  {
+    "name": "Curragh",
+    "code": "CURAH",
+    "alias": "",
+    "latitude": 53.1725,
+    "longitude": -6.86245
+  },
+  {
+    "name": "Dalkey",
+    "code": "DLKEY",
+    "alias": "",
+    "latitude": 53.2756,
+    "longitude": -6.10333
+  },
+  {
+    "name": "Docklands",
+    "code": "DCKLS",
+    "alias": "",
+    "latitude": 53.3509,
+    "longitude": -6.23929
+  },
+  {
+    "name": "Donabate",
+    "code": "DBATE",
+    "alias": "",
+    "latitude": 53.4855,
+    "longitude": -6.15134
+  },
+  {
+    "name": "Drogheda",
+    "code": "DGHDA",
+    "alias": "",
+    "latitude": 53.712,
+    "longitude": -6.33538
+  },
+  {
+    "name": "Dromod",
+    "code": "DRMOD",
+    "alias": "",
+    "latitude": 53.8591,
+    "longitude": -7.9164
+  },
+  {
+    "name": "Drumcondra",
+    "code": "DCDRA",
+    "alias": "",
+    "latitude": 53.3632,
+    "longitude": -6.25908
+  },
+  {
+    "name": "Dublin Connolly",
+    "code": "CNLLY",
+    "alias": "Connolly",
+    "latitude": 53.3531,
+    "longitude": -6.24591
+  },
+  {
+    "name": "Dublin Heuston",
+    "code": "HSTON",
+    "alias": "Heuston",
+    "latitude": 53.3464,
+    "longitude": -6.29461
+  },
+  {
+    "name": "Dublin Pearse",
+    "code": "PERSE",
+    "alias": "Pearse",
+    "latitude": 53.3433,
+    "longitude": -6.24829
+  },
+  {
+    "name": "Dun Laoghaire",
+    "code": "DLERY",
+    "alias": "",
+    "latitude": 53.2951,
+    "longitude": -6.13498
+  },
+  {
+    "name": "Dunboyne",
+    "code": "DBYNE",
+    "alias": "",
+    "latitude": 53.4175,
+    "longitude": -6.46483
+  },
+  {
+    "name": "Dundalk",
+    "code": "DDALK",
+    "alias": "",
+    "latitude": 54.0007,
+    "longitude": -6.41291
+  },
+  {
+    "name": "DUNMURRAY",
+    "code": "DUNMR",
+    "alias": "Dublin Belfast",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "name": "Edgeworthstown",
+    "code": "ETOWN",
+    "alias": "",
+    "latitude": 53.6888,
+    "longitude": -7.60299
+  },
+  {
+    "name": "Enfield",
+    "code": "ENFLD",
+    "alias": "",
+    "latitude": 53.4157,
+    "longitude": -6.83395
+  },
+  {
+    "name": "Ennis",
+    "code": "ENNIS",
+    "alias": "",
+    "latitude": 52.8386,
+    "longitude": -8.97491
+  },
+  {
+    "name": "Enniscorthy",
+    "code": "ECRTY",
+    "alias": "",
+    "latitude": 52.5046,
+    "longitude": -6.56627
+  },
+  {
+    "name": "Farranfore",
+    "code": "FFORE",
+    "alias": "",
+    "latitude": 52.1733,
+    "longitude": -9.55278
+  },
+  {
+    "name": "Fota",
+    "code": "FOTA",
+    "alias": "",
+    "latitude": 51.896,
+    "longitude": -8.3183
+  },
+  {
+    "name": "Foxford",
+    "code": "FXFRD",
+    "alias": "",
+    "latitude": 53.983,
+    "longitude": -9.1364
+  },
+  {
+    "name": "Galway",
+    "code": "GALWY",
+    "alias": "",
+    "latitude": 53.2736,
+    "longitude": -9.04696
+  },
+  {
+    "name": "Glenageary",
+    "code": "GLGRY",
+    "alias": "",
+    "latitude": 53.2812,
+    "longitude": -6.12289
+  },
+  {
+    "name": "Glounthaune",
+    "code": "GHANE",
+    "alias": "",
+    "latitude": 51.9112,
+    "longitude": -8.3254
+  },
+  {
+    "name": "Gorey",
+    "code": "GOREY",
+    "alias": "",
+    "latitude": 52.6712,
+    "longitude": -6.29195
+  },
+  {
+    "name": "Gormanston",
+    "code": "GSTON",
+    "alias": "",
+    "latitude": 53.638,
+    "longitude": -6.21705
+  },
+  {
+    "name": "Gort",
+    "code": "GORT",
+    "alias": "",
+    "latitude": 53.0653,
+    "longitude": -8.81595
+  },
+  {
+    "name": "Grand Canal Dock",
+    "code": "GCDK",
+    "alias": "",
+    "latitude": 53.3397,
+    "longitude": -6.23773
+  },
+  {
+    "name": "Greystones",
+    "code": "GSTNS",
+    "alias": "",
+    "latitude": 53.1442,
+    "longitude": -6.06085
+  },
+  {
+    "name": "Hansfield",
+    "code": "HAFLD",
+    "alias": "",
+    "latitude": 53.3853,
+    "longitude": -6.44205
+  },
+  {
+    "name": "Harmonstown",
+    "code": "HTOWN",
+    "alias": "",
+    "latitude": 53.3786,
+    "longitude": -6.19131
+  },
+  {
+    "name": "Hazelhatch",
+    "code": "HZLCH",
+    "alias": "Celbridge (Hazelhatch )",
+    "latitude": 53.3223,
+    "longitude": -6.52356
+  },
+  {
+    "name": "Hazelhatch",
+    "code": "HAZEF",
+    "alias": "Celbridge (Hazelhatch )",
+    "latitude": 53.3223,
+    "longitude": -6.52356
+  },
+  {
+    "name": "Hazelhatch",
+    "code": "HAZES",
+    "alias": "Celbridge (Hazelhatch )",
+    "latitude": 53.3223,
+    "longitude": -6.52356
+  },
+  {
+    "name": "Howth",
+    "code": "HOWTH",
+    "alias": "",
+    "latitude": 53.3891,
+    "longitude": -6.07401
+  },
+  {
+    "name": "Howth Junction",
+    "code": "HWTHJ",
+    "alias": "Donaghmede ( Howth Junction )",
+    "latitude": 53.3909,
+    "longitude": -6.15672
+  },
+  {
+    "name": "Kilbarrack",
+    "code": "KBRCK",
+    "alias": "",
+    "latitude": 53.387,
+    "longitude": -6.16163
+  },
+  {
+    "name": "Kilcock",
+    "code": "KCOCK",
+    "alias": "",
+    "latitude": 53.4043,
+    "longitude": -6.67892
+  },
+  {
+    "name": "Kilcoole",
+    "code": "KCOOL",
+    "alias": "",
+    "latitude": 53.107,
+    "longitude": -6.04112
+  },
+  {
+    "name": "Kildare",
+    "code": "KDARE",
+    "alias": "",
+    "latitude": 53.163,
+    "longitude": -6.90802
+  },
+  {
+    "name": "Kilkenny",
+    "code": "KKNNY",
+    "alias": "",
+    "latitude": 52.655,
+    "longitude": -7.24498
+  },
+  {
+    "name": "Killarney",
+    "code": "KLRNY",
+    "alias": "",
+    "latitude": 52.0595,
+    "longitude": -9.50198
+  },
+  {
+    "name": "Killester",
+    "code": "KLSTR",
+    "alias": "",
+    "latitude": 53.373,
+    "longitude": -6.20442
+  },
+  {
+    "name": "Killiney",
+    "code": "KILNY",
+    "alias": "",
+    "latitude": 53.2557,
+    "longitude": -6.11317
+  },
+  {
+    "name": "Kishoge",
+    "code": "KISHO",
+    "alias": "",
+    "latitude": 53.3345,
+    "longitude": -6.43038
+  },
+  {
+    "name": "Kishoge",
+    "code": "KISHF",
+    "alias": "",
+    "latitude": 53.3345,
+    "longitude": -6.43038
+  },
+  {
+    "name": "Kishoge",
+    "code": "KISHS",
+    "alias": "",
+    "latitude": 53.3345,
+    "longitude": -6.43038
+  },
+  {
+    "name": "Lansdowne Road",
+    "code": "LDWNE",
+    "alias": "",
+    "latitude": 53.3347,
+    "longitude": -6.22979
+  },
+  {
+    "name": "Laytown",
+    "code": "LTOWN",
+    "alias": "",
+    "latitude": 53.6794,
+    "longitude": -6.24253
+  },
+  {
+    "name": "Leixlip (Confey)",
+    "code": "LXCON",
+    "alias": "",
+    "latitude": 53.3743,
+    "longitude": -6.48624
+  },
+  {
+    "name": "Leixlip (Louisa Bridge)",
+    "code": "LXLSA",
+    "alias": "",
+    "latitude": 53.3704,
+    "longitude": -6.50598
+  },
+  {
+    "name": "Limerick",
+    "code": "LMRCK",
+    "alias": "",
+    "latitude": 52.6587,
+    "longitude": -8.62397
+  },
+  {
+    "name": "Limerick Junction",
+    "code": "LMRKJ",
+    "alias": "",
+    "latitude": 52.5009,
+    "longitude": -8.20003
+  },
+  {
+    "name": "Lisburn",
+    "code": "LBURN",
+    "alias": "",
+    "latitude": 54.514,
+    "longitude": -6.04327
+  },
+  {
+    "name": "LittleIsland",
+    "code": "LSLND",
+    "alias": "Little Island",
+    "latitude": 51.9078,
+    "longitude": -8.35466
+  },
+  {
+    "name": "Longford",
+    "code": "LFORD",
+    "alias": "",
+    "latitude": 53.7243,
+    "longitude": -7.79574
+  },
+  {
+    "name": "Lurgan",
+    "code": "LURGN",
+    "alias": "",
+    "latitude": 54.4672,
+    "longitude": -6.33547
+  },
+  {
+    "name": "M3 Parkway",
+    "code": "M3WAY",
+    "alias": "",
+    "latitude": 53.4349,
+    "longitude": -6.46898
+  },
+  {
+    "name": "Malahide",
+    "code": "MHIDE",
+    "alias": "",
+    "latitude": 53.4509,
+    "longitude": -6.15649
+  },
+  {
+    "name": "Mallow",
+    "code": "MLLOW",
+    "alias": "",
+    "latitude": 52.1396,
+    "longitude": -8.65521
+  },
+  {
+    "name": "Manulla Junction",
+    "code": "MNLAJ",
+    "alias": "",
+    "latitude": 53.828,
+    "longitude": -9.19296
+  },
+  {
+    "name": "Maynooth",
+    "code": "MYNTH",
+    "alias": "",
+    "latitude": 53.378,
+    "longitude": -6.58993
+  },
+  {
+    "name": "Midleton",
+    "code": "MDLTN",
+    "alias": "",
+    "latitude": 51.9212,
+    "longitude": -8.17579
+  },
+  {
+    "name": "Millstreet",
+    "code": "MLSRT",
+    "alias": "",
+    "latitude": 52.0776,
+    "longitude": -9.06973
+  },
+  {
+    "name": "MOIRA",
+    "code": "MOIRA",
+    "alias": "Dublin Belfast",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "name": "Monasterevin",
+    "code": "MONVN",
+    "alias": "",
+    "latitude": 53.1454,
+    "longitude": -7.06361
+  },
+  {
+    "name": "Muine Bheag",
+    "code": "MNEBG",
+    "alias": "Bagenalstown",
+    "latitude": 52.699,
+    "longitude": -6.95213
+  },
+  {
+    "name": "Mullingar",
+    "code": "MLGAR",
+    "alias": "",
+    "latitude": 53.523,
+    "longitude": -7.34608
+  },
+  {
+    "name": "Navan Road Parkway",
+    "code": "PHNPK",
+    "alias": "Phoenix Park",
+    "latitude": 53.3777,
+    "longitude": -6.34591
+  },
+  {
+    "name": "Nenagh",
+    "code": "NNAGH",
+    "alias": "",
+    "latitude": 52.8605,
+    "longitude": -8.19471
+  },
+  {
+    "name": "Newbridge",
+    "code": "NBRGE",
+    "alias": "",
+    "latitude": 53.1855,
+    "longitude": -6.80807
+  },
+  {
+    "name": "Newry",
+    "code": "NEWRY",
+    "alias": "",
+    "latitude": 54.1911,
+    "longitude": -6.36225
+  },
+  {
+    "name": "Oranmore",
+    "code": "ORNMR",
+    "alias": "",
+    "latitude": 53.2751,
+    "longitude": -8.94792
+  },
+  {
+    "name": "PARK WEST",
+    "code": "PWESS",
+    "alias": "Park West (Cherry Orchard )",
+    "latitude": 53.334,
+    "longitude": -6.37868
+  },
+  {
+    "name": "Park West and Cherry Orchard",
+    "code": "PWESF",
+    "alias": "Park West (Cherry Orchard )",
+    "latitude": 53.334,
+    "longitude": -6.37868
+  },
+  {
+    "name": "Park West and Cherry Orchard",
+    "code": "CHORC",
+    "alias": "Park West (Cherry Orchard )",
+    "latitude": 53.334,
+    "longitude": -6.37868
+  },
+  {
+    "name": "Pelletstown",
+    "code": "PELTN",
+    "alias": "",
+    "latitude": 53.3752,
+    "longitude": -6.31388
+  },
+  {
+    "name": "Portadown",
+    "code": "PDOWN",
+    "alias": "",
+    "latitude": 54.4295,
+    "longitude": -6.43868
+  },
+  {
+    "name": "Portarlington",
+    "code": "PTRTN",
+    "alias": "",
+    "latitude": 53.146,
+    "longitude": -7.18055
+  },
+  {
+    "name": "Portlaoise",
+    "code": "PTLSE",
+    "alias": "",
+    "latitude": 53.0371,
+    "longitude": -7.30086
+  },
+  {
+    "name": "Portmarnock",
+    "code": "PMNCK",
+    "alias": "",
+    "latitude": 53.4169,
+    "longitude": -6.1512
+  },
+  {
+    "name": "Raheny",
+    "code": "RAHNY",
+    "alias": "",
+    "latitude": 53.3815,
+    "longitude": -6.17699
+  },
+  {
+    "name": "Rathdrum",
+    "code": "RDRUM",
+    "alias": "",
+    "latitude": 52.9295,
+    "longitude": -6.22641
+  },
+  {
+    "name": "Rathmore",
+    "code": "RMORE",
+    "alias": "",
+    "latitude": 52.0854,
+    "longitude": -9.21756
+  },
+  {
+    "name": "Roscommon",
+    "code": "RSCMN",
+    "alias": "",
+    "latitude": 53.6243,
+    "longitude": -8.19631
+  },
+  {
+    "name": "Roscrea",
+    "code": "RCREA",
+    "alias": "",
+    "latitude": 52.9607,
+    "longitude": -7.7941
+  },
+  {
+    "name": "Rosslare Europort",
+    "code": "RLEPT",
+    "alias": "Rosslare Harbour",
+    "latitude": 52.2531,
+    "longitude": -6.33493
+  },
+  {
+    "name": "Rosslare Strand",
+    "code": "RLSTD",
+    "alias": "",
+    "latitude": 52.2726,
+    "longitude": -6.39254
+  },
+  {
+    "name": "Rush and Lusk",
+    "code": "RLUSK",
+    "alias": "",
+    "latitude": 53.5201,
+    "longitude": -6.1439
+  },
+  {
+    "name": "Rushbrooke",
+    "code": "RBROK",
+    "alias": "",
+    "latitude": 51.8496,
+    "longitude": -8.32252
+  },
+  {
+    "name": "Sallins",
+    "code": "SALNS",
+    "alias": "",
+    "latitude": 53.2469,
+    "longitude": -6.66386
+  },
+  {
+    "name": "Salthill and Monkstown",
+    "code": "SHILL",
+    "alias": "Monkstown ( Salthill )",
+    "latitude": 53.2954,
+    "longitude": -6.15206
+  },
+  {
+    "name": "Sandycove",
+    "code": "SCOVE",
+    "alias": "Glasthule (Sandycove )",
+    "latitude": 53.2878,
+    "longitude": -6.12712
+  },
+  {
+    "name": "Sandymount",
+    "code": "SMONT",
+    "alias": "",
+    "latitude": 53.3281,
+    "longitude": -6.22116
+  },
+  {
+    "name": "Seapoint",
+    "code": "SEAPT",
+    "alias": "",
+    "latitude": 53.2991,
+    "longitude": -6.16512
+  },
+  {
+    "name": "Shankill",
+    "code": "SKILL",
+    "alias": "",
+    "latitude": 53.2364,
+    "longitude": -6.11691
+  },
+  {
+    "name": "Sixmilebridge",
+    "code": "SXMBR",
+    "alias": "",
+    "latitude": 52.7376,
+    "longitude": -8.78427
+  },
+  {
+    "name": "Skerries",
+    "code": "SKRES",
+    "alias": "",
+    "latitude": 53.5741,
+    "longitude": -6.11933
+  },
+  {
+    "name": "Sligo",
+    "code": "SLIGO",
+    "alias": "",
+    "latitude": 54.2723,
+    "longitude": -8.48249
+  },
+  {
+    "name": "Sutton",
+    "code": "SUTTN",
+    "alias": "",
+    "latitude": 53.392,
+    "longitude": -6.11448
+  },
+  {
+    "name": "Sydney Parade",
+    "code": "SIDNY",
+    "alias": "",
+    "latitude": 53.3206,
+    "longitude": -6.21112
+  },
+  {
+    "name": "Tara Street",
+    "code": "TARA",
+    "alias": "",
+    "latitude": 53.347,
+    "longitude": -6.25425
+  },
+  {
+    "name": "Templemore",
+    "code": "TPMOR",
+    "alias": "",
+    "latitude": 52.7878,
+    "longitude": -7.82293
+  },
+  {
+    "name": "Thomastown",
+    "code": "THTWN",
+    "alias": "",
+    "latitude": 52.523,
+    "longitude": -7.14891
+  },
+  {
+    "name": "Thurles",
+    "code": "THRLS",
+    "alias": "",
+    "latitude": 52.6766,
+    "longitude": -7.82189
+  },
+  {
+    "name": "Tipperary",
+    "code": "TIPRY",
+    "alias": "",
+    "latitude": 52.4701,
+    "longitude": -8.1625
+  },
+  {
+    "name": "Tralee",
+    "code": "TRLEE",
+    "alias": "",
+    "latitude": 52.271,
+    "longitude": -9.69846
+  },
+  {
+    "name": "Tullamore",
+    "code": "TMORE",
+    "alias": "",
+    "latitude": 53.2704,
+    "longitude": -7.49985
+  },
+  {
+    "name": "Waterford",
+    "code": "WFORD",
+    "alias": "",
+    "latitude": 52.2667,
+    "longitude": -7.1183
+  },
+  {
+    "name": "Wellingtonbridge",
+    "code": "WBDGE",
+    "alias": "",
+    "latitude": 52.2678,
+    "longitude": -6.75392
+  },
+  {
+    "name": "Westport",
+    "code": "WPORT",
+    "alias": "",
+    "latitude": 53.7955,
+    "longitude": -9.50885
+  },
+  {
+    "name": "Wexford",
+    "code": "WXFRD",
+    "alias": "",
+    "latitude": 52.3434,
+    "longitude": -6.4636
+  },
+  {
+    "name": "Wicklow",
+    "code": "WLOW",
+    "alias": "",
+    "latitude": 52.9882,
+    "longitude": -6.05338
+  },
+  {
+    "name": "Woodbrook",
+    "code": "WBROK",
+    "alias": "",
+    "latitude": 53.22,
+    "longitude": -6.1101
+  },
+  {
+    "name": "Woodlawn",
+    "code": "WLAWN",
+    "alias": "",
+    "latitude": 53.3432,
+    "longitude": -8.47231
+  }
+]
