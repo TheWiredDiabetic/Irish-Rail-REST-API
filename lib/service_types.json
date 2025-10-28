@@ -1,0 +1,78 @@
+[
+  {
+    "name": "DART",
+    "color": "#009a44",
+    "routes": [
+      { "from": "Malahide", "to": "Greystones", "bidirectional": true },
+      { "from": "Malahide", "to": "Bray", "bidirectional": true },
+      { "from": "Howth", "to": "Bray", "bidirectional": true },
+      { "from": "Howth", "to": "Greystones", "bidirectional": true },
+      { "from": "Dublin Connolly", "to": "Greystones", "bidirectional": true },
+      { "from": "Bray", "to": "Dublin Connolly", "bidirectional": true },
+      { "from": "Malahide", "to": "Dublin Connolly", "bidirectional": true }
+    ]
+  },
+  {
+    "name": "Commuter",
+    "color": "#7030a0",
+    "routes": [
+      { "from": "Balbriggan", "to": "Grand Canal Dock", "bidirectional": true },
+      { "from": "Dublin Connolly", "to": "Longford", "bidirectional": true },
+      { "from": "Drogheda", "to": "Bray", "bidirectional": true },
+      { "from": "Drogheda", "to": "Grand Canal Dock", "bidirectional": true },
+      { "from": "Drogheda", "to": "Dublin Connolly", "bidirectional": true },
+      { "from": "Drogheda", "to": "Dun Laoghaire", "bidirectional": true },
+      { "from": "Dundalk", "to": "Bray", "bidirectional": true },
+      { "from": "Dundalk", "to": "Dublin Connolly", "bidirectional": true },
+      { "from": "Dundalk", "to": "Grand Canal Dock", "bidirectional": true },
+      { "from": "M3 Parkway", "to": "Dublin Connolly", "bidirectional": true },
+      { "from": "M3 Parkway", "to": "Dublin Docklands", "bidirectional": true },
+      { "from": "M3 Parkway", "to": "Dublin Pearse", "bidirectional": true },
+      { "from": "M3 Parkway", "to": "Dublin Heuston", "bidirectional": true },
+      { "from": "Maynooth", "to": "Bray", "bidirectional": true },
+      { "from": "Maynooth", "to": "Dublin Connolly", "bidirectional": true },
+      { "from": "Maynooth", "to": "Dublin Pearse", "bidirectional": true },
+      { "from": "Mullingar", "to": "Dublin Connolly", "bidirectional": true },
+      { "from": "Hazelhatch", "to": "Dublin Connolly", "bidirectional": true },
+      { "from": "Hazelhatch", "to": "Dublin Pearse", "bidirectional": true },
+      { "from": "Hazelhatch", "to": "Grand Canal Dock", "bidirectional": true },
+      { "from": "Hazelhatch", "to": "Bray", "bidirectional": true },
+      { "from": "Longford", "to": "Dublin Pearse", "bidirectional": true },
+      { "from": "Newbridge", "to": "Grand Canal Dock", "bidirectional": true },
+      { "from": "Newbridge", "to": "Dublin Connolly", "bidirectional": true },
+      { "from": "Portlaoise", "to": "Dublin Heuston", "bidirectional": true },
+      { "from": "Kildare", "to": "Grand Canal Dock", "bidirectional": true }
+    ]
+  },
+  {
+    "name": "Intercity",
+    "color": "#d2232a",
+    "routes": [
+      { "from": "Dublin Heuston", "to": "Athlone", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Ballina", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Cork", "bidirectional": true },
+      { "from": "Dublin Hueston", "to": "Carlow", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Galway", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Kildare", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Kilkenny", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Limerick", "bidirectional": true },
+      { "from": "Dublin Hueston", "to": "Mallow", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Newbridge", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Westport", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Portlaoise", "bidirectional": true },
+      { "from": "Dublin Connolly", "to": "Rosslare Europort", "bidirectional": true },
+      { "from": "Dublin Connolly", "to": "Sligo", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Tralee", "bidirectional": true },
+      { "from": "Dublin Connolly", "to": "Wexford", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Westport", "bidirectional": true },
+      { "from": "Dublin Heuston", "to": "Waterford", "bidirectional": true }
+    ]
+  },
+  {
+    "name": "Enterprise",
+    "color": "#6f1d77",
+    "routes": [
+      { "from": "Dublin Connolly", "to": "Belfast", "bidirectional": true }
+    ]
+  }
+]
