@@ -104,25 +104,6 @@ server.get('/trains', async (req, res) => {
   }
 });
 
-/**
- * @swagger
- * /trains/{code}:
- *   get:
- *     parameters:
- *       - name: code
- *         in: path
- *         required: true
- *         type: string
- *         description: Train code, e.g. E001, P141
- *     responses:
- *       200:
- *         description: OK
- *       500:
- *         description: Server error
- *       404:
- *         description: Train not found
-*/
-
 server.get('/trains/:code', async (req, res) => {
   try {
     const { code } = req.params;
@@ -153,6 +134,6 @@ server.get('/trains/:code/movements', async (req, res) => {
 
 server.use((req, res) => sendError(res, 'Route not found.', 404));
 
-server.listen(PORT, () => console.log(`[SERVER]: Listening on port ${PORT}`));
-
+// Vercel doesn't like this for some reason
+// server.listen(PORT, () => console.log(`[SERVER]: Listening on port ${PORT}`));
 module.exports = server;
